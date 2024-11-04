@@ -30,8 +30,10 @@ Data got cleaned as per the requirements and unnecessary columns got removed.
 Created new columns for continent and rating color.
 Verified model and corrected it.
 
+### Power BI is added here.
+
 Global view Tab:
-1.	 Total Restaurants, average rating and average of average cost for two are shown in the cards.
+1.	Total Restaurants, average rating and average of average cost for two are shown in the cards.
 2.	Map is shown for count of Restaurants by Continent, Country and City.
 3.	Stacked bar chart is showing count of restaurants by City.
 4.	5 slicers are created for 	Country, City, Rating color, Table booking and online delivery.
