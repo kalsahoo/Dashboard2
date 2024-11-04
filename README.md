@@ -21,6 +21,9 @@ The data (sample) is currently available  in the form of a few excel files with 
 
 ### Exploratory Data Analysis
 
+![image](https://github.com/user-attachments/assets/57aae927-2dc9-4e50-b99c-5f63c68768b1)
+
+
 - which continent has highest profit
 - where is the max and min sales
 - how many years Zomato is serving for particular country
